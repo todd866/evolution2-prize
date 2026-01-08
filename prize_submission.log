@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.12)  7 JAN 2026 20:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.12)  8 JAN 2026 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -440,12 +440,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [5]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 277.
+(hyperref)                than one, level fixed on input line 286.
 
 
 
 [6]
-Overfull \hbox (15.16277pt too wide) in paragraph at lines 304--304
+Overfull \hbox (15.16277pt too wide) in paragraph at lines 313--313
 []\OT1/cmr/bx/n/14.4 The Di-men-sion-al-ity Thresh-old: Why Pre-vi-ous Ex-per-i
 -ments Failed 
  []
@@ -455,7 +455,7 @@ Overfull \hbox (15.16277pt too wide) in paragraph at lines 304--304
 [7]
 
 [8]
-Overfull \hbox (8.88644pt too wide) in paragraph at lines 436--437
+Overfull \hbox (8.88644pt too wide) in paragraph at lines 445--446
 []\OT1/cmr/bx/n/10.95 Implication\OT1/cmr/m/n/10.95 : The en-cod-ing ta-bles in
  our sys-tem are not ar-ti-facts of our mea-sure-ment procedure---
  []
@@ -481,7 +481,7 @@ Package rerunfilecheck Info: File `prize_submission.out' has not changed.
 Here is how much of TeX's memory you used:
  10810 strings out of 474662
  164205 string characters out of 5751108
- 588690 words of memory out of 5000000
+ 589690 words of memory out of 5000000
  33647 multiletter control sequences out of 15000+600000
  569146 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -505,10 +505,10 @@ ve/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/t
 exlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/loc
 al/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
 
-Output written on prize_submission.pdf (13 pages, 247591 bytes).
+Output written on prize_submission.pdf (13 pages, 249033 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 281 compressed objects within 3 object streams
+ 334 PDF objects out of 1000 (max. 8388607)
+ 282 compressed objects within 3 object streams
  74 named destinations out of 1000 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

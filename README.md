@@ -39,7 +39,8 @@ This is a **theoretical solution with simulation validation**, not a physical de
 
 ## Related Work
 
-- [Dimensionality Threshold Paper](https://github.com/todd866/protocell-codes) - Companion paper for Discover Life
+- [Dimensionality Threshold Paper](https://github.com/todd866/protocell-codes) — Companion paper for Discover Life
+- [Manifold Expansion](https://github.com/todd866/manifold-expansion) — Mathematical foundation (Fisher rank increase under coupling)
 
 ## Citation
 

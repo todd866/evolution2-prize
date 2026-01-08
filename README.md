@@ -40,7 +40,6 @@ This is a **theoretical solution with simulation validation**, not a physical de
 ## Related Work
 
 - [Dimensionality Threshold Paper](https://github.com/todd866/protocell-codes) - Companion paper for Discover Life
-- Patent filed: AU 2026900167 (January 8, 2026)
 
 ## Citation
 
